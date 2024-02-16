@@ -1,0 +1,2 @@
+prod_baseurl=https://api.universalml.net
+dev_baseurl=https://api.universalml.net
